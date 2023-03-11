@@ -1,10 +1,8 @@
 This repository contains an implementation of a Blog API using NodeJS, Typescript, and Prisma.
 
 ## Features
-- CRUD operations for Blog Posts
-- Commenting on Blog Posts
-- Like/Dislike a Blog Post
-- Delete all Blog Posts
+- CRUD operations for Blog Posts and
+- Liking a Blog Post
 
 ## Installation
 
@@ -40,9 +38,6 @@ If you find any bugs or issues with this repository, feel free to open an issue 
 
 ## Acknowledgements
 
-This project was developed as a demonstration of NodeJS, Typescript, and Prisma. To read the Article, see [this blog post](https://example.com).
+This project was developed as a demonstration of NodeJS, Typescript, and Prisma. To read the Article, see [this blog post](https://dev.to/joshtom/build-a-rest-api-with-prisma-node-js-and-typescript-36o).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
